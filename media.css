@@ -1,0 +1,19 @@
+@media (max-width: 480px) {
+    .window{
+        width: 285px;
+        height: 280px;
+    }
+    .window__box{
+        width: 90px;
+        height: 90px;
+    }
+    .box__title {
+        font-size: 22px;
+    }
+    .box__result, .box__btn {
+        font-size: 20px;
+    }
+    .box__btn{
+        width: 180px;
+    }
+}
